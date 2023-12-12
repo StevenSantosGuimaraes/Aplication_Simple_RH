@@ -11,7 +11,7 @@ import entities.HourContract;
 import entities.Worker;
 import entities.enums.WorkerLevel;
 
-public class Program {
+public class Program1 {
 
 	public static void main(String[] args) throws ParseException {
 
